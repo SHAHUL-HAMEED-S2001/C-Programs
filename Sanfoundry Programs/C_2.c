@@ -1,5 +1,5 @@
 /*
- * C Program to check whether a number is even or odd using ternary operator
+ * Check Even or Odd in C using Ternary Operator
  */
 
 #include <stdio.h>
