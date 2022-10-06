@@ -1,5 +1,5 @@
 /*
- * Check Even or Odd in C using Bitwise Operator
+ * check Even or Odd in C using Bitwise Operator
  */
  
 #include <stdio.h>
