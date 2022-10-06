@@ -1,5 +1,5 @@
 /*
- * Check Even or Odd in C using Ternary Operator
+ * check Even or Odd in C using Ternary Operator
  */
 
 #include <stdio.h>
