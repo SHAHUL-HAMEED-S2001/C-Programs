@@ -1,5 +1,5 @@
 /*
- * largest of Three Numbers in C using Function
+ * largest of Three Numbers in C using 
  */
 
 #include <stdio.h>
