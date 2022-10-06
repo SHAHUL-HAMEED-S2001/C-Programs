@@ -9,3 +9,7 @@
 7. largest of Three Numbers in C using If-else Statement
 8. largest of Three Numbers in C using Ternary Operator
 9. largest of Three Numbers in C using Function
+10. swap Two Numbers in C using Naive Approach 
+11. swap Two Numbers in C without using any Temporary Variable
+12. swap Two Numbers in C using Bitwise XOR
+13. swap Two Numbers in C without using Temporary Variables or Arithmetic Operator
