@@ -1,5 +1,5 @@
 /*
- * check whether a given integer is positive or negative.
+ * check whether a given integer is positive or negative
  */
 
 #include <stdio.h>
