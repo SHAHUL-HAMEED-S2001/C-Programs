@@ -1,5 +1,5 @@
 /*
- * Find the sum of odd and even numbers from 1 to N
+ * find the sum of odd and even numbers from 1 to N
  */
 
 #include <stdio.h>
