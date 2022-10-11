@@ -4,7 +4,7 @@
 
 #include <stdio.h>
  
-int main(void)//the function takes NO argument
+int main(void) //the function takes NO argument
 {
     int num, sum = 0, rem;
     printf("Enter a number: ");
