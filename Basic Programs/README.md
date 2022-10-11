@@ -19,4 +19,4 @@
 17. Sum of Digits in C using Recursive Approach
 18. find the sum of digits of a number using a separate function
 19. find sum of digits of a number taken as a string
-20. 
+20. increases 1 to all of the given integer digit and print the sum of all digits
