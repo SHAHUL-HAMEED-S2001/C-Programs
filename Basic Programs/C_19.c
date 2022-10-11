@@ -1,25 +1,30 @@
 /*
- * find the sum of digits of a number using a separate function
+ * find sum of digits of a number taken as a string
  */
 
 #include <stdio.h>
+#include <string.h>
  
-long sum_of_digits(long n)
+int sum(char *str)
 {
-    long sum = 0;
-    while (n > 0)
+    int sum = 0;
+    size_t i;
+    size_t l = strlen(str);
+    for (i = 0; i < l; i++) 
     {
-        sum += n % 10;
-        n /= 10;
+        if (str[i] >= '0' && str[i] <= '9')
+        {
+            sum = sum + (str[i] - '0');
+        }
     }
     return sum;
 }
  
 int main(void)
 {
-    long n;
-    printf("Enter a number: ");
-    scanf("%ld", &n);
-    printf("Sum of digits of the number is %ld", sum_of_digits(n));
+    char str[100];
+    printf("Enter the string: ");
+    scanf("%s", str);
+    printf("The sum of digits of numbers in the string is: %d", sum(str));
     return 0;
 }
