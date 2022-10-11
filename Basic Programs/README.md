@@ -14,3 +14,5 @@
 12. swap Two Numbers in C using Bitwise XOR
 13. swap Two Numbers in C without using Temporary Variables or Arithmetic Operator
 14. find the Number of Integers Divisible by 5
+15. accept two integers and check if they are equal
+16. Sum of Digits in C using While Loop
