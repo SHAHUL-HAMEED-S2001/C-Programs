@@ -16,4 +16,7 @@
 14. find the Number of Integers Divisible by 5
 15. accept two integers and check if they are equal
 16. sum of Digits in C using While Loop
-17. find the sum of digits of a number using a separate function
+17. Sum of Digits in C using Recursive Approach
+18. find the sum of digits of a number using a separate function
+19. find sum of digits of a number taken as a string
+20. 
