@@ -1,6 +1,7 @@
 /*
  * check Even or Odd in C using if-else and Modulus Operator
  */
+
 #include <stdio.h>
 void main(){
     int n;
