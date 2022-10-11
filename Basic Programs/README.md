@@ -13,3 +13,4 @@
 11. swap Two Numbers in C without using any Temporary Variable
 12. swap Two Numbers in C using Bitwise XOR
 13. swap Two Numbers in C without using Temporary Variables or Arithmetic Operator
+14. find the Number of Integers Divisible by 5
