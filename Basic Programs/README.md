@@ -1,4 +1,4 @@
-*** Sanfoundry Programming Topics ***
+*** Basic Programming Topics ***
 
 1. check Even or Odd in C using if-else and Modulus Operator
 2. check Even or Odd in C using Ternary Operator
