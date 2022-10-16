@@ -1,6 +1,4 @@
-/*
- * increases 1 to all of the given integer digit and print the sum of all digits
- */
+// increases 1 to all of the given integer digit and print the sum of all digits
 
 #include <stdio.h>
 int main()

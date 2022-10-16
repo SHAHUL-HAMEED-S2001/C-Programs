@@ -1,7 +1,4 @@
-/*
- * find the Number of Integers Divisible by 5
- */
-
+// find the Number of Integers Divisible by 5 in given range and sum of numbers
 
 #include <stdio.h>
 

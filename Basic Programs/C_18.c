@@ -1,6 +1,4 @@
-/*
- * Find the sum of digits of a number using a separate function
- */
+// Find the sum of digits of a number using a separate function
 
 #include <stdio.h>
  

@@ -1,6 +1,4 @@
-/*
- * accept two integers and check if they are equal
- */
+// accept two integers and check if they are equal
 
 #include <stdio.h>
 void main()

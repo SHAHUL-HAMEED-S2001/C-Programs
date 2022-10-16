@@ -13,7 +13,7 @@
 11. swap Two Numbers without using any Temporary Variable
 12. swap Two Numbers using Bitwise XOR
 13. swap Two Numbers without using Temporary Variables or Arithmetic Operator
-14. find the Number of Integers Divisible by 5
+14. find the Number of Integers Divisible by 5 in given range and sum of numbers
 15. accept two integers and check if they are equal
 16. sum of Digits using While Loop
 17. Sum of DigitS using Recursive Approach
@@ -22,8 +22,8 @@
 20. increases 1 to all of the given integer digit and print the sum of all digits
 21.
 22. calculate the sum of the elements of each row & column in a given matrix
-23. Print Multiplication Table
-24. Print Multiplication Table using recursion
+23. print Multiplication Table
+24. print Multiplication Table using recursion
 25. takes a grade as input and displays its equivalent description
 26. take 3 arguments as input and operate appropriately on the numbers
 27. to count the number of vowels & consonants in a sentence

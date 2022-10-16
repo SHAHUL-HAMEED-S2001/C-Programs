@@ -1,6 +1,4 @@
-/*
- * Sum of Digits in C using Recursive Approach
- */
+// sum of Digits using Recursive Approach
 
 #include <stdio.h>
 long sum_of_digits_recur(long n)

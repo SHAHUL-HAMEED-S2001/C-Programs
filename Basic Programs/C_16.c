@@ -1,6 +1,4 @@
-/*
- * Sum of Digits in C using While Loop (Naive Approach)
- */
+// Sum of Digits using While Loop (Naive Approach)
 
 #include <stdio.h>
  
@@ -15,7 +13,7 @@ int main(void) //the function takes NO argument
     {
         rem = num % 10;
         sum = sum + rem;
-        num = num / 10;
+        num = num / 10; // integer type operand will give integer type output
     }
     printf("Sum of digits of the number is %d", sum);
     return 0;
