@@ -16,4 +16,4 @@ void main()
     i = i ^ k;
     printf("\n After swapping i= %ld and k = %ld", i, k);
 }
-https://homepages.inf.ed.ac.uk/rbf/HIPR2/figs/ttabxor.gif
+// https://homepages.inf.ed.ac.uk/rbf/HIPR2/figs/ttabxor.gif
