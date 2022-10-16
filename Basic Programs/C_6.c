@@ -1,6 +1,4 @@
-/*
- * Largest of Three Numbers in C using If Statement
- */
+// largest of Three Numbers in C using If Statement
 
 #include <stdio.h>
  

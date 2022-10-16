@@ -1,6 +1,5 @@
 // check Even or Odd using Bitwise Operator
 
- 
 #include <stdio.h>
 void main(){
     int n;

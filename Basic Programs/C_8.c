@@ -1,6 +1,4 @@
-/*
- * largest of Three Numbers in C using Ternary Operator
- */
+// largest of Three Numbers using Ternary Operator
 
 #include <stdio.h>
  

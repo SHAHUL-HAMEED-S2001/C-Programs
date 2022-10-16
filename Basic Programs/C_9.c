@@ -1,14 +1,14 @@
 /*
- * largest of Three Numbers in C using 
+ * largest of Three Numbers using Functyion 
  */
 
 #include <stdio.h>
  
-int biggest(int a, int b)
+int biggest(int x, int y)
 {
-    if (a > b)
-        return a;
-    return b;
+    if (x > y)
+        return x;
+    return y;
 }
  
 int main(void)

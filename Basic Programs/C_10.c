@@ -1,6 +1,4 @@
-/*
-* swap Two Numbers in C using Naive Approach 
-*/
+// swap Two Numbers using Naive Approach 
  
 #include <stdio.h>
 
@@ -13,7 +11,7 @@ void swap(float *ptr1, float *ptr2)
     *ptr2 = temp;
 }
  
-int main(void)
+int main(void) // main function not take any parameters
 {
     float m, n;
     
@@ -22,7 +20,7 @@ int main(void)
     printf("Enter the value of N (accepted decimal values): ");
     scanf("%f", &n);
     
-    printf("Before swapping : M = %5.2f\tN = %5.2f\n", m, n);
+    printf("Before swapping : M = %5.2f\tN = %5.2f\n", m, n); //%5.2f = 5 space with two precision of float value
     
     swap(&m, &n);
     

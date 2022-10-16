@@ -1,9 +1,6 @@
-/*
- * largest of Three Numbers in C using If-else Statement
- */
+// largest of Three Numbers in C using If-else Statement
 
 #include <stdio.h>
- 
 void main()
 {
     int num1, num2, num3;

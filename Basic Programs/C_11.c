@@ -1,6 +1,4 @@
-/*
- * swap Two Numbers in C without using any Temporary Variable
- */
+// swap Two Numbers without using any Temporary Variable
 
 #include <stdio.h>
 
