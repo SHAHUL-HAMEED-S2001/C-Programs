@@ -29,4 +29,14 @@
 27. to count the number of vowels & consonants in a sentence
 28. 
 29. to replace lowercase characters by uppercase & vice-versa
-39. accepts the height of a person & categorize as taller, dwarf & average
+30. accepts the height of a person & categorize as taller, dwarf & average
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
