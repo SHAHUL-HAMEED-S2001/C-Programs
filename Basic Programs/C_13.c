@@ -1,6 +1,4 @@
-/*
- * swap Two Numbers in C without using Temporary Variables or Arithmetic Operator
- */
+// swap Two Numbers without using Temporary Variables or Arithmetic Operator
 
 #include <stdio.h>
  
@@ -16,4 +14,3 @@ void main()
     i = i ^ k;
     printf("\n After swapping i= %ld and k = %ld", i, k);
 }
-// https://homepages.inf.ed.ac.uk/rbf/HIPR2/figs/ttabxor.gif
