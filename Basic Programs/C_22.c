@@ -8,7 +8,7 @@ void main()
 {
     int arr[10][10];
     int i, j, row, col, rowsum, colsum, sumall=0;
- 
+    
     printf("Enter the order of the matrix \n");
     scanf("%d %d", &row, &col);
     printf("Enter the elements of the matrix \n");

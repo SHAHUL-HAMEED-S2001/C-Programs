@@ -8,7 +8,7 @@ void main()
     int i, vowels = 0, consonants = 0, special = 0;
  
     printf("Enter a sentence \n");
-    gets(sentence);
+    gets(sentence); // used to read a string or a text line
     for (i = 0; sentence[i] != '\0'; i++)
     {
         if ((sentence[i] == 'a' || sentence[i] == 'e' || sentence[i] ==
@@ -22,7 +22,7 @@ void main()
         {
             consonants = consonants + 1;
         }
-        if (sentence[i] =='\t' ||sentence[i] =='\0' || sentence[i] ==' ')
+        if (sentence[i] =='\t' || sentence[i] =='\0' || sentence[i] ==' ')
         {
             special = special + 1;
         }

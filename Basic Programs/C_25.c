@@ -3,12 +3,12 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
- 
+
 void main()
 {
     char remark[15];
     char grade;
- 
+
     printf("Enter the grade \n");
     scanf("%c", &grade);
     /*  lower case letter to upper case */
@@ -31,7 +31,7 @@ void main()
         strcpy(remark, " FAILS");
         break;
     default :
-        strcpy(remark, "ERROR IN GRADE \n");
+        strcpy(remark, "ERROR IN GRADE \n"); // copy one string to another
         break;
     }
     printf("RESULT  : %s\n", remark);

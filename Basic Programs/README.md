@@ -20,14 +20,14 @@
 18. find the sum of digits of a number using a separate function
 19. find sum of digits of a number taken as a string
 20. increases 1 to all of the given integer digit and print the sum of all digits
-21.
+21. print Environment variables
 22. calculate the sum of the elements of each row & column in a given matrix
 23. print Multiplication Table
 24. print Multiplication Table using recursion
 25. takes a grade as input and displays its equivalent description
 26. take 3 arguments as input and operate appropriately on the numbers
 27. to count the number of vowels & consonants in a sentence
-28. 
+28. print the Program Name and All its Arguments
 29. to replace lowercase characters by uppercase & vice-versa
 30. accepts the height of a person & categorize as taller, dwarf & average
 31.
@@ -40,3 +40,13 @@
 38.
 39.
 40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50. 
