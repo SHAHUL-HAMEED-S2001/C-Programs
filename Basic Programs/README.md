@@ -48,5 +48,10 @@
 46. Sum of First N Natural Numbers using Arrays
 47. Sum of N Natural Numbers in a Given Range
 48. to Find the Sum of First 50 Natural Numbers using For Loop
-49. Reverse a Number
-50. 
+49. Reverse a Number using while loop
+50. Reverse a Number using For Loop
+51. Reverse a Number using Function
+52. Reverse a Number in C using Recursion
+53. Check if it is a Palindrome
+54. to Find the Sum of two Binary Numbers
+55. to Find Multiplication of two Binary Numbers

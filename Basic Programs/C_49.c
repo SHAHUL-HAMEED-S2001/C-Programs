@@ -1,4 +1,4 @@
-// Reverse a Number
+// Reverse a Number using while loop
 
 #include <stdio.h>
  
