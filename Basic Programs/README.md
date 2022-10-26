@@ -39,14 +39,14 @@
 37. Find Perfect Numbers in a Given Range
 38. Check whether a given Number is Armstrong
 39. Print Armstrong Number between a given range
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
+40. Sum of First N Natural Numbers using For Loop
+41. Sum of First N Natural Numbers using While Loop
+42. Sum of First N Natural Numbers using Do While Loop
+43. Sum of First N Natural Numbers using Formula
+44. Sum of First N Natural Numbers using Recursion
+45. Sum of First N Natural Numbers using Function
+46. Sum of First N Natural Numbers using Arrays
+47. Sum of N Natural Numbers in a Given Range
+48. to Find the Sum of First 50 Natural Numbers using For Loop
+49. Reverse a Number
 50. 
