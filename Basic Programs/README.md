@@ -30,15 +30,15 @@
 28. print the Program Name and All its Arguments
 29. to replace lowercase characters by uppercase & vice-versa
 30. accepts the height of a person & categorize as taller, dwarf & average
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
+31. to find prime numbers in a given range
+32. to check if a given number is Prime number
+33. using recursion, finds whether the entered number is a prime number or not.
+34. Perfect Number Program using For Loop
+35. Perfect Number Program using While Loop
+36. Perfect Number Program using Function
+37. Find Perfect Numbers in a Given Range
+38. Check whether a given Number is Armstrong
+39. Print Armstrong Number between a given range
 40.
 41.
 42.
