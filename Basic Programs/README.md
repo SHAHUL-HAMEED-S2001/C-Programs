@@ -59,4 +59,13 @@
 57. to Check for Leap Year using One if-else Statement
 58. to Extract Last two Digits of a given Year
 59. converting 12-hour time format to 24-hour time format
-60. 
+60. to convert given number of days to a measure of time given
+61. Using a Macro that defines Main
+62. to display function using Token Pasting operator
+63. to display function without using the Main Function
+64. to Print any Print Statement without using Semicolon
+65. to Display its own Source Code as its Output
+66. to display the ATM transaction
+67. to display the IP Address of the system
+68. to illustrate user authentication
+69. to shutdown or turn off the computer in linux
