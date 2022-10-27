@@ -55,3 +55,8 @@
 53. Check if it is a Palindrome
 54. to Find the Sum of two Binary Numbers
 55. to Find Multiplication of two Binary Numbers
+56. to Check for Leap Year using Multiple else-if Statements
+57. to Check for Leap Year using One if-else Statement
+58. to Extract Last two Digits of a given Year
+59. converting 12-hour time format to 24-hour time format
+60. 
