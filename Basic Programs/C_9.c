@@ -1,6 +1,4 @@
-/*
- * largest of Three Numbers using Functyion 
- */
+// largest of Three Numbers using Functyion 
 
 #include <stdio.h>
  
