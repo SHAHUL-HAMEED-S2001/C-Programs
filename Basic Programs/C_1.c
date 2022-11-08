@@ -1,4 +1,4 @@
-// check Even or Odd using if-else and Modulus Operator
+// check Even or Odd using if-else and Modulus(%) Operator
 
 #include <stdio.h>
 void main(){
@@ -10,4 +10,5 @@ void main(){
         printf("%d is even number.", n);
     else
         printf("%d is odd number.", n);
+    return;
 }
