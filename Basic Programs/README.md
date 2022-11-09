@@ -69,3 +69,4 @@
 67. to display the IP Address of the system
 68. to illustrate user authentication
 69. to shutdown or turn off the computer in linux
+70. accept two integers and check if they are equal without using comparison operator
