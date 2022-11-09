@@ -5,7 +5,7 @@ void main()
 {
     int i, num, odd_sum = 0, even_sum = 0;
  
-    printf("Enter the value of num\n");
+    printf("Enter the limit: ");
     scanf("%d", &num);
     for (i = 1; i <= num; i++)
     {
@@ -14,6 +14,6 @@ void main()
         else
             odd_sum = odd_sum + i;
     }
-    printf("Sum of all odd numbers  = %d\n", odd_sum);
-    printf("Sum of all even numbers = %d\n", even_sum);
+    printf("\nSum of all odd numbers  = %d", odd_sum);
+    printf("\nSum of all even numbers = %d", even_sum);
 }
