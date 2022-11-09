@@ -1,4 +1,4 @@
-// swap Two Numbers without using Temporary Variables or Arithmetic Operator
+// swap Two Numbers without using Temporary Variables and Arithmetic Operator
 
 #include <stdio.h>
  
@@ -14,3 +14,11 @@ void main()
     i = i ^ k;
     printf("\n After swapping i= %ld and k = %ld", i, k);
 }
+
+/*
+    i   = 0101
+    j   = 0001
+    i^j = 0100 = i
+    i^j = 0101 = j
+    i^j = 0001 = i
+*/

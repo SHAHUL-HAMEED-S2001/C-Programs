@@ -12,7 +12,7 @@
 10. swap Two Numbers using Naive Approach 
 11. swap Two Numbers without using any Temporary Variable
 12. swap Two Numbers using Bitwise XOR
-13. swap Two Numbers without using Temporary Variables or Arithmetic Operator
+13. swap Two Numbers without using Temporary Variables and Arithmetic Operator
 14. find the Number of Integers Divisible by 5 in given range and sum of numbers
 15. accept two integers and check if they are equal
 16. sum of Digits using While Loop
