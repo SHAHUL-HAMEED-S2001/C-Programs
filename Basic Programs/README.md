@@ -9,7 +9,7 @@
 7. largest of Three Numbers using If-else Statement
 8. largest of Three Numbers using Ternary Operator
 9. largest of Three Numbers using Function
-10. swap Two Numbers using Naive Approach 
+10. swap Two Numbers using Naive Approach
 11. swap Two Numbers without using any Temporary Variable
 12. swap Two Numbers using Bitwise XOR
 13. swap Two Numbers without using Temporary Variables and Arithmetic Operator
