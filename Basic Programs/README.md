@@ -1,4 +1,4 @@
-*** Basic Programming Topics ***
+# Basic Programming Topics
 
 1. check Even or Odd using if-else and Modulus Operator
 2. check Even or Odd using Ternary Operator
