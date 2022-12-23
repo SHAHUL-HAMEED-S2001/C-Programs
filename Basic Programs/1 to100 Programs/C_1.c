@@ -1,14 +1,7 @@
-// check Even or Odd using if-else and Modulus(%) Operator
+// C program to print “Hello World”
 
 #include <stdio.h>
 void main(){
-    int n;
-    printf("Enter a number: ");
-    scanf("%d", &n);
- 
-    if(n % 2 == 0)
-        printf("%d is even number.", n);
-    else
-        printf("%d is odd number.", n);
+    printf("Hello World");
     return;
 }
